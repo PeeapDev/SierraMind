@@ -1,0 +1,15 @@
+{
+    "name": "DirectBankTransfer",
+    "alias": "directbanktransfer",
+    "display_name": "Direct Bank Transfer",
+    "version": "1.0.0",
+    "gateway": true,
+    "offline" : true,
+    "description": "Direct Bank Transfer, also known as bank wire or bank transfer, is a payment method where funds are directly transferred from one bank account to another.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

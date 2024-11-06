@@ -1,0 +1,23 @@
+{
+    "name": "multi-vendor/coupon",
+    "description": "",
+    "authors": [
+        {
+            "name": "A",
+            "email": "pay.peeap@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Coupon\\": ""
+        }
+    }
+}

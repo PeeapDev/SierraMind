@@ -1,0 +1,23 @@
+{
+    "name": "peeap/gateway",
+    "description": "",
+    "authors": [
+        {
+            "name": "mohamed",
+            "email": "pay.peeap@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Gateway\\": ""
+        }
+    }
+}
