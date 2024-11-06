@@ -1,0 +1,23 @@
+{
+    "name": "peeap/pagebuilder",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "kabiacentral@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PageBuilder\\": ""
+        }
+    }
+}

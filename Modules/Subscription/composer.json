@@ -1,0 +1,23 @@
+{
+    "name": "peeap/subscription",
+    "description": "",
+    "authors": [
+        {
+            "name": "peeap",
+            "email": "kabiacentral@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Subscription\\": ""
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Peeap/upgrader-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "mohamed",
+            "email": "peeap@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Upgrader\\": ""
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "peeap/paypalrecurring-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "peeap",
+            "email": "dev@peeap.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PaypalRecurring\\": ""
+        }
+    }
+}

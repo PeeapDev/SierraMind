@@ -1,0 +1,23 @@
+{
+    "name": "peeap/ticket",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "peeap@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Ticket\\": ""
+        }
+    }
+}
