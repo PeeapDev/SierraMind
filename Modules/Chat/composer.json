@@ -1,0 +1,27 @@
+{
+    "name": "peeap/chat-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "kabia",
+            "email": "alma.peeap@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Chat\\": ""
+        }
+    },
+    "require": {
+        "smalot/pdfparser": "^2.10",
+        "spekulatius/phpscraper": "^2.0"
+    }
+}

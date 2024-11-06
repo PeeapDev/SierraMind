@@ -1,0 +1,271 @@
+{
+    "addons": [
+        {
+            "name": "Authorizecom",
+            "alias": "authorizecom",
+            "description": "Authorizecom Description",
+            "image": [
+                ""
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.ai.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "CheckPayments",
+            "alias": "checkpayments",
+            "description": "CheckPayments Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/CheckPayments/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Coinbase",
+            "alias": "coinbase",
+            "description": "Coinbase Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Coinbase/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Coinpayment",
+            "alias": "coinpayment",
+            "description": "Coinpayment Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Coinpayment/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "DirectBankTransfer",
+            "alias": "directbanktransfer",
+            "description": "DirectBankTransfer Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/DirectBankTransfer/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "FAQ",
+            "alias": "faq",
+            "description": "FAQ Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/FAQ/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Flutterwave",
+            "alias": "flutterwave",
+            "description": "Flutterwave Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Flutterwave/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Instamojo",
+            "alias": "instamojo",
+            "description": "Instamojo Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Instamojo/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "MtnMomo",
+            "alias": "mtnmomo",
+            "description": "MtnMomo Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/MtnMomo/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "NGenius",
+            "alias": "ngenius",
+            "description": "NGenius Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/NGenius/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Paypal",
+            "alias": "paypal",
+            "description": "Paypal Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Paypal/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Paystack",
+            "alias": "paystack",
+            "description": "Paystack Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Paystack/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Paytm",
+            "alias": "paytm",
+            "description": "Paytm Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Paytm/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Razorpay",
+            "alias": "razorpay",
+            "description": "Razorpay Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Razorpay/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Razorpay",
+            "alias": "razorpay",
+            "description": "Razorpay Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Razorpay/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Reviews",
+            "alias": "reviews",
+            "description": "Reviews Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Reviews/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "SslCommerz",
+            "alias": "sslcommerz",
+            "description": "SslCommerz Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/SslCommerz/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "Stripe",
+            "alias": "stripe",
+            "description": "Stripe Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/Stripe/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }, {
+            "name": "StripeRecurring",
+            "alias": "striperecurring",
+            "description": "StripeRecurring Description",
+            "image": [
+                "https://staging.ai.peeap.com/Modules/StripeRecurring/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://www.peeap.com",
+            "version": "1.0",
+            "require_version": "1.0",
+            "last_update_date": "06-07-2023",
+            "meta": []
+        }
+    ]
+}

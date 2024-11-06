@@ -1,0 +1,23 @@
+{
+    "name": "peeap/anthropic",
+    "description": "",
+    "authors": [
+        {
+            "name": "peeap",
+            "email":"peeap"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Anthropic\\": ""
+        }
+    }
+}
